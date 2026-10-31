@@ -10,10 +10,10 @@ I build customer-facing web experiences and the WordPress workflows behind them.
 
 | Case | What to inspect | Evidence boundary |
 |---|---|---|
-| [305UGC — current website & mobile journey](https://github.com/RawPowered/305UGC-Showcase) | Live public site; paired 1440px and 390px homepage captures; guided quote path; WordPress–Zoho architecture. | Portfolio build; CRM workflows and full customer-journey acceptance have documented pending checks. |
-| [RoofRoofTexas — full rebuild](https://github.com/RawPowered/RoofRoofTexas-Rebuild) | Before/after architecture, conversion flow, responsive navigation, media pipeline, security hardening and local SEO. | Existing public case study; site claims are linked to its evidence and verification date. |
-| [PowerPortals — WordPress portal product](https://github.com/RawPowered/PowerPortals-Showcase) | Fictional-data tour for modular intake, team portals and Zoho CRM companion widgets. | Private validation; no distributable software or compatibility/security certification. |
-| [Zoho CRM widgets — product extension UX](https://github.com/RawPowered/Zoho-CRM-Widgets) | Fictional tours of CRM workspaces and embedded operational widgets. | Commercial source and licensed installation supplied privately; this is not a WordPress plugin. |
+| [305UGC: current website & mobile journey](https://github.com/RawPowered/305UGC-Showcase) | Live public site; paired 1440px and 390px homepage captures; guided quote path; WordPress-Zoho architecture. | Portfolio build; CRM workflows and full customer-journey acceptance have documented pending checks. |
+| [BlueRoof WordPress theme](https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase) | Roofing website design, responsive layouts, service navigation and dated performance evidence. | Design preview; private theme source. |
+| [PowerPortals: WordPress portal product](https://github.com/RawPowered/PowerPortals-Showcase) | Fictional-data tour for modular intake, team portals and Zoho CRM companion widgets. | Private validation; no distributable software or compatibility/security certification. |
+| [Zoho CRM widgets: product extension UX](https://github.com/RawPowered/Zoho-CRM-Widgets) | Fictional tours of CRM workspaces and embedded operational widgets. | Commercial source and licensed installation supplied privately; this is not a WordPress plugin. |
 
 ## In view
 
@@ -21,7 +21,7 @@ I build customer-facing web experiences and the WordPress workflows behind them.
 
 ## Before and after: a legacy service site
 
-![RoofRoofTexas rebuilt homepage from its existing public case](assets/roofroof-after.png)
+![BlueRoof WordPress theme design preview](https://raw.githubusercontent.com/RawPowered/BlueRoof-WP-Theme-Showcase/main/screenshots/desktop.png)
 
 The source repository describes a prior thin one-page site rebuilt with responsive service navigation, project proof, a request flow, media optimization and local-search structure. This is an earlier public case; its details and claims remain attributed to that case.
 
